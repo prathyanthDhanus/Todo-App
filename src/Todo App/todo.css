@@ -1,0 +1,56 @@
+.todo-box{
+    background: rgb(191, 233, 227);
+    width: 650px ;
+    margin: auto;
+    border-radius: 15px;
+    padding: 18px;
+    color: black;
+
+}
+.head{
+    font-size: 30px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.inputcontainer{
+
+    border-radius: 15px;
+
+}
+
+.input{
+font-size: 18px;
+border-radius: 15px;
+width: 80%;
+padding: 5px;
+
+}
+.btn{
+    font-size: 15px;
+    border-radius: 8px; 
+    background-color: rgb(77, 233, 5);
+}
+.li-task{
+    font-size: 15px;
+border-radius: 15px;
+width: 95%;
+padding: 5px;
+background-color: rgb(223, 223, 104);
+margin: 0.5em;
+color: rgb(22, 15, 2);
+font-style: oblique;
+font-weight: bold;
+
+}
+.dlt-btn{
+    font-size: 15px;
+    border-radius: 15px;
+    color: oldlace;
+    padding: 5px;
+    background-color: red;
+    float: right; 
+    margin: -5px 5px;
+    
+
+    
+}
